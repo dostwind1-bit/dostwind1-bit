@@ -1,16 +1,15 @@
 <div align="center">
 
-# Ankit Maurya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Ankit+Maurya;Full-Stack+Web+Developer;Building+Products+End-to-End" alt="Typing SVG" />
 
-### Full-Stack Web Developer
-
-Building scalable web applications and platforms end-to-end — from database architecture to production-ready UI.
+Full-stack developer building scalable web platforms — from database architecture to production-ready UI.
 
 <br/>
 
 <a href="https://ankitmaurya.pro"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ankit-maurya-227100419/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dostwind1@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/NMaurya32376"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Opportunities-brightgreen?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=dostwind1-bit&label=Profile%20Views&color=grey&style=flat-square" alt="Profile views" />
@@ -21,7 +20,7 @@ Building scalable web applications and platforms end-to-end — from database ar
 
 ## Profile Summary
 
-Full-stack developer with hands-on experience designing and shipping production web platforms across React, Next.js, and Node.js. Track record of building complete products independently — authentication systems, real-time features, payment-ready architectures, and admin tooling — for both freelance clients and self-owned platforms.
+Full-stack developer with hands-on experience designing and shipping production web platforms across React, Next.js, and Node.js. Track record of building complete products independently — authentication systems, real-time features, and admin tooling — for both freelance clients and self-owned platforms.
 
 Particular focus on building for underserved markets: platforms in Hindi and for India's blue-collar and industrial workforce, where most mainstream products don't reach.
 
@@ -33,7 +32,7 @@ Particular focus on building for underserved markets: platforms in Hindi and for
 <tr>
 <td width="33%" valign="top">
 
-**Frontend Development**
+**Frontend**
 - React.js, Next.js
 - Tailwind CSS
 - TypeScript / JavaScript (ES6+)
@@ -42,20 +41,20 @@ Particular focus on building for underserved markets: platforms in Hindi and for
 </td>
 <td width="33%" valign="top">
 
-**Backend & Infrastructure**
+**Backend**
 - Node.js, Express.js
 - REST API design
 - Docker, Vercel, Render
-- Authentication & authorization systems
+- Auth & authorization systems
 
 </td>
 <td width="33%" valign="top">
 
-**Database Engineering**
+**Databases**
 - MongoDB, PostgreSQL, MySQL
 - Firebase, Supabase
 - Schema design & optimization
-- Real-time data (Supabase Realtime)
+- Real-time data pipelines
 
 </td>
 </tr>
@@ -77,38 +76,51 @@ Particular focus on building for underserved markets: platforms in Hindi and for
 
 ## Featured Work
 
-### TradeConnect India
-A professional networking and hiring platform for India's industrial and blue-collar workforce — comparable in scope to LinkedIn/Naukri, purpose-built for a different segment.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Scope delivered:** Role-based authentication (Worker / Company / Supervisor) · Job postings and applications · Real-time chat and notifications · Social feed with engagement features · Skill verification/testing engine · Two-way review system · Full admin panel
+### TradeConnect India
+Professional networking and hiring platform for India's industrial and blue-collar workforce — comparable in scope to LinkedIn/Naukri, purpose-built for a different segment.
+
+**Delivered:** Role-based auth (Worker/Company/Supervisor) · Job postings & applications · Real-time chat · Social feed · Skill verification engine · Full admin panel
 
 **Stack:** TypeScript · React · Vite · Supabase
 
-[View Repository](https://github.com/dostwind1-bit/tradeconnectindia)
+[View Repository →](https://github.com/dostwind1-bit/tradeconnectindia)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### UPGK Online
-A competitive exam preparation platform for UP GK content, built as a three-service architecture (frontend, backend, admin panel).
+Competitive exam preparation platform for UP GK content, built as a three-service architecture.
 
 **Stack:** JavaScript · Node.js · Express
 
-[Backend](https://github.com/dostwind1-bit/upgk-backend) · [Frontend](https://github.com/dostwind1-bit/upgk-frontend) · [Admin Panel](https://github.com/dostwind1-bit/upgk-Admin)
+[Backend](https://github.com/dostwind1-bit/upgk-backend) · [Frontend](https://github.com/dostwind1-bit/upgk-frontend) · [Admin](https://github.com/dostwind1-bit/upgk-Admin)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Python Hindii
-A Hindi-language programming education platform teaching Python, MySQL, and AI fundamentals to Hindi-medium learners — addressing a gap in India's largely English-first developer education content.
+Hindi-language programming education platform teaching Python, MySQL, and AI fundamentals — addressing a gap in India's largely English-first developer education content.
 
-[Visit Platform](https://pythonhindii.in)
+[Visit Platform →](https://pythonhindii.in)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### AnguliMart & Arattae
-**AnguliMart** — a full-stack e-commerce platform *(in development)*
-**Arattae** — a marketplace for website templates
+**AnguliMart** — full-stack e-commerce platform *(in development)*
+**Arattae** — marketplace for website templates
 
 **Stack:** React · Node.js · MongoDB
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -127,7 +139,7 @@ A Hindi-language programming education platform teaching Python, MySQL, and AI f
 
 ## Get in Touch
 
-I'm currently open to full-time opportunities as well as select freelance engagements. If you're looking for a developer who can own a product from database to deployment, let's talk.
+Currently open to full-time opportunities as well as select freelance engagements. If you're looking for a developer who can own a product from database to deployment, let's talk.
 
 <div align="center">
 
